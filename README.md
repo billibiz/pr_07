@@ -44,7 +44,6 @@ CREATE TABLE Hospital_Facility (
     Address VARCHAR(200)
 );
 ```
-![image](https://github.com/user-attachments/assets/4fd12fba-deed-45b5-921e-38b07782a3b5)
 
 **2) Вставьте 5 записей о больничных объектах**
 
