@@ -7,6 +7,7 @@
 # Ход работы:
 1.	Установлено соединение с PostgreSQL и подключена база данных «medical_db»
 ![image](https://github.com/user-attachments/assets/20b078cb-7b47-44ff-b010-e6560a020744)
-![image](https://github.com/user-attachments/assets/a19f4190-3ff1-4185-b7fd-c7df9d913b08)
+![image](https://github.com/user-attachments/assets/ce01a769-6b83-4a27-941f-c23a86b24046)
+
 
    
